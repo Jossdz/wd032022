@@ -1,0 +1,21 @@
+body {
+	/* background-color: brown; */
+}
+
+p {
+	color: #0000ff;
+}
+
+/* 000000 -> FFFFFF */
+
+.red {
+	color: rgba(0, 255, 0, 0.5);
+}
+
+.big {
+	font-size: 40px;
+}
+
+#title {
+	color: rebeccapurple;
+}
